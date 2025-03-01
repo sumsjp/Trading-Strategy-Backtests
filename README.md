@@ -8,6 +8,22 @@
 <details>
 <summary>1. Previous Day High and Low Day Trading Strategy</summary><br>
 
+| **条件** | **规则** |
+|---------|---------|
+| **进场** | **昨日高点突破（Breakout）** |
+| **入场时间** | **日内开盘 - 收盘之间，但不在最后一小时进场** |
+| **止损（SL）** | **1×ATR 或前一根 K 线最低点，取较大值** |
+| **止盈（TP）** | **5:1 R:R，但若未达成则收盘强制平仓** |
+| **日内强制平仓** | **若 SL 或 TP 未达成，15:30 自动平仓** |
+
+| **指标** | **结果** |
+|---------|---------|
+| **胜率** | 58% |
+| **理论盈亏比（R:R）** | 5:1 |
+| **实际盈亏比（R:R）** | 1.2:1 |
+| **年化收益率** | 16.5% |
+| **最大回撤** | 9% |
+
 [[Youtube]](https://www.youtube.com/watch?v=BS9DqD5GETI) [[中文]](chn/01.md)
 </details>
 <!-- #endregion -->
@@ -15,6 +31,21 @@
 <!-- #region A2 -->
 <details>
 <summary>2. I Backtested a Popular Beginner Bollinger Bands Strategy – Does It Actually Work?</summary><br>
+
+| **条件** | **规则** |
+|---------|---------|
+| **进场** | 价格 **跌破布林带下轨**，同时 RSI **< 30** |
+| **止损（SL）** | 2×ATR |
+| **止盈（TP）** | 5:1 盈亏比 |
+| **交易时间** | 1 小时级别，日内交易 |
+
+| **指标** | **结果** |
+|---------|---------|
+| **胜率** | 57% |
+| **理论盈亏比（R:R）** | 5:1 |
+| **实际盈亏比（R:R）** | 2:1 |
+| **年化收益率** | 27% |
+| **最大回撤** | 6% |
 
 [[Youtube]](https://www.youtube.com/watch?v=FHbJi8Qg-js) [[中文]](chn/02.md)
 </details>

@@ -24,7 +24,7 @@
 <details>
 <summary>3. Beginner Trading Strategy Using Pivot Points: 79% Winrate!</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=iJPeOv-Jhpg) [[中文]](chn)
+[[Youtube]](https://www.youtube.com/watch?v=iJPeOv-Jhpg) [[中文]](chn/03.md)
 </details>
 <!-- #endregion -->
 
@@ -32,7 +32,7 @@
 <details>
 <summary>4. Simple ADX Trading Strategy Backtest - 100%+ Annual Returns!</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=LHPEr_oxTaY) [[中文]](chn)
+[[Youtube]](https://www.youtube.com/watch?v=LHPEr_oxTaY) [[中文]](chn/04.md)
 </details>
 <!-- #endregion -->
 
@@ -40,7 +40,7 @@
 <details>
 <summary>5. 5 RSI Trading Strategies Backtested: I Didn't Expect These Results!</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=fmStvFPf48o) [[中文]](chn)
+[[Youtube]](https://www.youtube.com/watch?v=fmStvFPf48o) [[中文]](chn/05.md)
 </details>
 <!-- #endregion -->
 
@@ -48,7 +48,7 @@
 <details>
 <summary>6. 3 MACD Trading Strategies Tested: Surprising Backtest Results!</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=g_2zkHyO2DE) [[中文]](chn)
+[[Youtube]](https://www.youtube.com/watch?v=g_2zkHyO2DE) [[中文]](chn/06.md)
 </details>
 <!-- #endregion -->
 
@@ -56,7 +56,7 @@
 <details>
 <summary>7. Ultimate Reversal Trading Strategy | Backtested Results!</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=RX-yyFHVwdk) [[中文]](chn)
+[[Youtube]](https://www.youtube.com/watch?v=RX-yyFHVwdk) [[中文]](chn/07.md)
 </details>
 <!-- #endregion -->
 
@@ -64,7 +64,7 @@
 <details>
 <summary>8. Testing the Double 7 Trading Strategy with Python</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=g_hnIIWOtZo) [[中文]](chn)
+[[Youtube]](https://www.youtube.com/watch?v=g_hnIIWOtZo) [[中文]](chn/08.md)
 </details>
 <!-- #endregion -->
 
@@ -72,7 +72,7 @@
 <details>
 <summary>9. Simple RSI Trading Strategy For Easy Profit! (82% Winrate)</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=On5v-g_RX8U) [[中文]](chn)
+[[Youtube]](https://www.youtube.com/watch?v=On5v-g_RX8U) [[中文]](chn/09.md)
 </details>
 <!-- #endregion -->
 
@@ -80,7 +80,7 @@
 <details>
 <summary>10. Unlock Big Profits with This Simple Reversal Trading Strategy!</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=-FYu_1e_kIA) [[中文]](chn)
+[[Youtube]](https://www.youtube.com/watch?v=-FYu_1e_kIA) [[中文]](chn/10.md)
 </details>
 <!-- #endregion -->
 
@@ -88,7 +88,7 @@
 <details>
 <summary>11. BUY THE DIP - Simple and Profitable Trading Strategy</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=rhjf6PCtSWw) [[中文]](chn)
+[[Youtube]](https://www.youtube.com/watch?v=rhjf6PCtSWw) [[中文]](chn/11.md)
 </details>
 <!-- #endregion -->
 
@@ -96,7 +96,7 @@
 <details>
 <summary>12. Can This Simple Moving Average Trading Strategy Beat The Market?</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=AL3C909aK4k) [[中文]](chn)
+[[Youtube]](https://www.youtube.com/watch?v=AL3C909aK4k) [[中文]](chn/12.md)
 </details>
 <!-- #endregion -->
 

@@ -16,7 +16,7 @@
 <details>
 <summary>2. I Backtested a Popular Beginner Bollinger Bands Strategy – Does It Actually Work?</summary><br>
 
-[[Youtube]](https://www.youtube.com/watch?v=FHbJi8Qg-js) [[中文]](chn/02.md)
+[[Youtube]](https://www.youtube.com/watch?v=FHbJi8Qg-js) [[中文]](chn)
 </details>
 <!-- #endregion -->
 
